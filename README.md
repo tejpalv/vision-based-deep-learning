@@ -4,7 +4,7 @@
 <img src="Front_cover.png" width="20%" height="20%"> &nbsp;&nbsp; <img src="Back_cover.png" width="19.7%" height="19.7%"> 
 </p>
 
-## Foreword - Robbie Barrat
+## Foreword: Robbie Barrat
 
 Over the past few years, there has been a massive increase in large companies using deep learning to accomplish various technical and commercial feats (self driving cars, targeted advertising, voice assistants on smartphones, etc.). For a long time, research and projects involving machine learning have been restricted to well-funded research labs, but recently, and more importantly, there has been an increasingly low bar of entry for anyone to do work with machine learning and its applications.
  
