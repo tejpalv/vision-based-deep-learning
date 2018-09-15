@@ -1,8 +1,8 @@
 # Vision-Based Deep Learning: A Guidebook for High Schoolers
 
-<center>
-<img src="Front_cover.png" width="40%" height="40%"> 
- </center>
+<p align="center">
+<img src="Front_cover.png" width="20%" height="20%"> 
+</p>
 
 # Introduction:
 
