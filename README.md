@@ -1,7 +1,7 @@
 # Vision-Based Deep Learning: A Guidebook for High Schoolers
 
 <p align="center">
-<img src="Front_cover.png" width="20%" height="20%"> &nbsp;&nbsp; <img src="Back_cover.png" width="19.7%" height="19.7%"> 
+<img src="Front_cover.png" width="30%" height="30%"> &nbsp;&nbsp; <img src="Back_cover.png" width="30%" height="30%"> 
 </p>
 
 ## Foreword: Robbie Barrat
